@@ -1,3 +1,6 @@
+/**
+ * Leetcode problem nr.13 - https://leetcode.com/problems/roman-to-integer/
+ */
 const translator: Record<string, number> = {
     I: 1,
     V: 5,
